@@ -1,38 +1,32 @@
-Pokémon App<br>
-Welcome to the Pokémon App! 🎉 This application allows you to explore and view detailed information about Pokémon using the PokeAPI. With a sleek, responsive design, it offers a user-friendly experience for Pokémon enthusiasts of all levels.
+# **Pokédex**
 
-✨ Features<br>
-Searchable Pokémon List: Easily find your favorite Pokémon with a convenient search bar.<br>
-Detailed Pokémon Information: Get comprehensive details including images, weight, height, abilities, and stats.<br>
-Responsive Design: Optimized for a seamless experience on both mobile and desktop devices.<br>
+Welcome to the Pokédex application! This is a Next.js project built with TypeScript to fetch and display Pokémon data from the PokeAPI.
 
-💻 Tech Stack<br>
-Next.js - A powerful React framework for building server-rendered applications.<br>
-TypeScript - Adds type safety and robustness to JavaScript.<br>
-TailwindCSS - Provides a utility-first approach to styling for a modern look.<br>
-PokeAPI - The source of our Pokémon data, offering a wide range of information.
+## **Table of Contents**
 
-🚀 Getting Started<br>
-Prerequisites<br>
-Node.js: Version 14 or higher.<br>
-npm or yarn: Package managers to handle dependencies.<br>
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Installation<br>
-Clone the Repository:<br>
-git clone https://github.com/yourusername/pokemon-app.git<br>
-cd pokemon-app<br>
+## **Project Overview**
 
-Install Dependencies:<br>
-Using npm:<br>
-npm install<br>
+This project is designed to demonstrate skills in React, Next.js, and TypeScript. The application features a search bar to filter Pokémon and displays them in a responsive grid layout. Users can click on a Pokémon card to view detailed information on a separate page.
 
-Using yarn:<br>
-yarn install<br>
+## **Features**
 
-Start the Development Server:<br>
-Using npm:<br>
-npm run dev<br>
+- **Pokémon List Page:** Displays a grid of Pokémon cards with name and image. Clicking a card navigates to a detailed page.
+- **Search Functionality:** Allows users to filter Pokémon by name in real-time.
+- **Detailed Pokémon Page:** Shows detailed information including name, image, abilities, types, and stats.
+- **Styling:** Uses TailwindCSS for a modern and responsive design.
 
-Using yarn:<br>
-yarn dev<br>
-Open http://localhost:3000 in your browser to view the app.
+## **Getting Started**
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AB091501/pokedex.git
