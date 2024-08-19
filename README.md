@@ -30,3 +30,20 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/AB091501/pokedex.git
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd pokedex
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+
+Open your browser and go to http://localhost:3000.
