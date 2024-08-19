@@ -13,9 +13,9 @@ TailwindCSS - Provides a utility-first approach to styling for a modern look.<br
 PokeAPI - The source of our Pokémon data, offering a wide range of information.
 
 🚀 Getting Started<br>
-Prerequisites
-Node.js: Version 14 or higher.
-npm or yarn: Package managers to handle dependencies.
+Prerequisites<br>
+Node.js: Version 14 or higher.<br>
+npm or yarn: Package managers to handle dependencies.<br>
 
 Installation<br>
 Clone the Repository:<br>
