@@ -11,3 +11,28 @@ Next.js - A powerful React framework for building server-rendered applications.<
 TypeScript - Adds type safety and robustness to JavaScript.<br>
 TailwindCSS - Provides a utility-first approach to styling for a modern look.<br>
 PokeAPI - The source of our Pokémon data, offering a wide range of information.
+
+🚀 Getting Started<br>
+Prerequisites
+Node.js: Version 14 or higher.
+npm or yarn: Package managers to handle dependencies.
+
+Installation<br>
+Clone the Repository:<br>
+git clone https://github.com/yourusername/pokemon-app.git<br>
+cd pokemon-app<br>
+
+Install Dependencies:<br>
+Using npm:<br>
+npm install<br>
+
+Using yarn:<br>
+yarn install<br>
+
+Start the Development Server:<br>
+Using npm:<br>
+npm run dev<br>
+
+Using yarn:<br>
+yarn dev<br>
+Open http://localhost:3000 in your browser to view the app.
